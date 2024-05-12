@@ -1,4 +1,4 @@
-# From Scratch - Part-2: Naive Bayes
+# From Scratch - Part-4: Naive Bayes
 
 ### Aim
 This project aims to develop and implement naive bayes algorithm from scratch, without using ML libraries like Scikit-Learn.
